@@ -7,7 +7,6 @@ public class Test {
 		
 		System.out.println("33333");
 		
-		
 		System.out.println("55555");//local
 		
 		System.out.println("4444");//remote
